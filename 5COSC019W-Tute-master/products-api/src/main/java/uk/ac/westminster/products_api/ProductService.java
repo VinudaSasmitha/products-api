@@ -13,6 +13,7 @@ public class ProductService {
     private List<Product> products = new ArrayList<>();
     private Long nextId=1L;
 
+<<<<<<< HEAD
     public ProductService(){
         products.add(new DigitalProduct(
                 nextId++,"Clean Code (E-book)",29.99,
@@ -24,6 +25,8 @@ public class ProductService {
 
     }
 
+=======
+>>>>>>> b354b4e57bacaaffc22ec11c15335366d5bc7fa5
     public List<Product> getAllProducts(){
         return products;
     }

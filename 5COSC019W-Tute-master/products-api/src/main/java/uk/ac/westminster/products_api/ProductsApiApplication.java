@@ -12,7 +12,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 
 @SpringBootApplication
+<<<<<<< HEAD
 public class  ProductsApiApplication {
+=======
+public class ProductsApiApplication {
+>>>>>>> b354b4e57bacaaffc22ec11c15335366d5bc7fa5
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductsApiApplication.class, args);

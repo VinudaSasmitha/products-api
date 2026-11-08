@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/5COSC019W-Tute-master.iml" filepath="$PROJECT_DIR$/.idea/5COSC019W-Tute-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/products-api/products-api.iml" filepath="$PROJECT_DIR$/products-api/products-api.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/products-api.iml" filepath="$PROJECT_DIR$/.idea/products-api.iml" />
+>>>>>>> b354b4e57bacaaffc22ec11c15335366d5bc7fa5
     </modules>
   </component>
 </project>
